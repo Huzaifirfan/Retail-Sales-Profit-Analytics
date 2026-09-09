@@ -1,0 +1,4 @@
+Retail Sales & Profit Intelligence Dashboard | Microsoft Excel
+- Built an interactive Excel analytics dashboard to analyze retail sales, profitability, regional performance, product performance, sales channels, and monthly trends across 60 transactions.
+- Used PivotTables, PivotCharts, slicers, advanced formulas, What-If Analysis, Goal Seek, Scenario Manager, and Data Tables to support management decision-making.
+- Delivered KPI reporting for Rs. 2.38M net sales, Rs. 598K profit, 422 units sold, and a 25.1% overall profit margin.
