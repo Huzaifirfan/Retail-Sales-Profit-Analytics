@@ -1,0 +1,22 @@
+Built my first portfolio-ready Microsoft Excel analytics project: Retail Sales & Profit Intelligence Dashboard.
+
+The project analyzes sales, profit, product/category performance, regions, salespeople, channels, and monthly trends across 60 retail transactions.
+
+Key features:
+- KPI dashboard
+- PivotTables and PivotCharts
+- Slicers and interactive analysis
+- Goal Seek, Scenario Manager, and What-If Data Tables
+- Data cleaning, validation, conditional formatting, and advanced formulas
+
+Key results:
+- Net Sales: Rs. 2.38M
+- Profit: Rs. 598K
+- Units Sold: 422
+- Profit Margin: 25.1%
+- Top Category: Electronics
+- Top Region: North
+
+GitHub: https://github.com/Huzaifirfan/Retail-Sales-Profit-Analytics
+
+#Excel #DataAnalytics #DataAnalyst #Dashboard #BusinessIntelligence #Portfolio
